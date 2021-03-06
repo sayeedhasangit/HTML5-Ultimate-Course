@@ -1,1 +1,6 @@
-firefox browser develper edition 
+1. firefox browser develper edition
+2. install { atom text editor }
+	🍟 install package
+	🌭 install theme
+3. text editor -> keyboard shortcut  
+ 
